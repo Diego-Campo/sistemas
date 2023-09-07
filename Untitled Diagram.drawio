@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:32:38.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4clQBmmchaAGp8utICbP" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:34:56.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YElGJ6Zzmc6__EFk9Fs2" version="21.7.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="607.25" y="175" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SZbxEGOmJBCaxf82diFX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.449;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SZbxEGOmJBCaxf82diFX-29" target="SZbxEGOmJBCaxf82diFX-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZbxEGOmJBCaxf82diFX-29" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Calcular el subtotal&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="142.5" width="110" height="65" as="geometry" />
@@ -65,6 +68,9 @@
         </mxCell>
         <mxCell id="SZbxEGOmJBCaxf82diFX-47" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZbxEGOmJBCaxf82diFX-48" value="Cada camiseta tiene&lt;br&gt;&amp;nbsp;un valor de 60.000" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="40" width="159" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

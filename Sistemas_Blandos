@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T08:34:15.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QfmlYrnkxEeUu1787uSm" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T08:34:44.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6dhCBfddiqnpdZ_Nc5CH" version="22.0.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,6 +26,9 @@
         </mxCell>
         <mxCell id="36F-js3SBsEFClkPYXA9-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Actor 4&lt;br&gt;(población civil)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36F-js3SBsEFClkPYXA9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="36F-js3SBsEFClkPYXA9-11" target="36F-js3SBsEFClkPYXA9-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="36F-js3SBsEFClkPYXA9-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Sube el precio del combustible&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
